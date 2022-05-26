@@ -1,0 +1,388 @@
+Time:0
+Waiting clients:
+(3, 8, 27 )
+(4, 10, 20 )
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0 : closed
+Queue #1 : closed
+Time:1
+Waiting clients:
+(3, 8, 27 )
+(4, 10, 20 )
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0 : closed
+Queue #1 : closed
+Time:2
+Waiting clients:
+(3, 8, 27 )
+(4, 10, 20 )
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0 : closed
+Queue #1 : closed
+Time:3
+Waiting clients:
+(3, 8, 27 )
+(4, 10, 20 )
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0 : closed
+Queue #1 : closed
+Time:4
+Waiting clients:
+(3, 8, 27 )
+(4, 10, 20 )
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0 : closed
+Queue #1 : closed
+Time:5
+Waiting clients:
+(3, 8, 27 )
+(4, 10, 20 )
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0 : closed
+Queue #1 : closed
+Time:6
+Waiting clients:
+(3, 8, 27 )
+(4, 10, 20 )
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0 : closed
+Queue #1 : closed
+Time:7
+Waiting clients:
+(3, 8, 27 )
+(4, 10, 20 )
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0 : closed
+Queue #1 : closed
+Time:8
+Waiting clients:
+(4, 10, 20 )
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 27 ) 
+Queue #1 : closed
+Time:9
+Waiting clients:
+(4, 10, 20 )
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 26 ) 
+Queue #1 : closed
+Time:10
+Waiting clients:
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 25 ) 
+Queue #1: 
+(4, 10, 20 ) 
+Time:11
+Waiting clients:
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 24 ) 
+Queue #1: 
+(4, 10, 19 ) 
+Time:12
+Waiting clients:
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 23 ) 
+Queue #1: 
+(4, 10, 18 ) 
+Time:13
+Waiting clients:
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 22 ) 
+Queue #1: 
+(4, 10, 17 ) 
+Time:14
+Waiting clients:
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 21 ) 
+Queue #1: 
+(4, 10, 16 ) 
+Time:15
+Waiting clients:
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 20 ) 
+Queue #1: 
+(4, 10, 15 ) 
+Time:16
+Waiting clients:
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 19 ) 
+Queue #1: 
+(4, 10, 14 ) 
+Time:17
+Waiting clients:
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 18 ) 
+Queue #1: 
+(4, 10, 13 ) 
+Time:18
+Waiting clients:
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 17 ) 
+Queue #1: 
+(4, 10, 12 ) 
+Time:19
+Waiting clients:
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 16 ) 
+Queue #1: 
+(4, 10, 11 ) 
+Time:20
+Waiting clients:
+(1, 21, 5 )
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 15 ) 
+Queue #1: 
+(4, 10, 10 ) 
+Time:21
+Waiting clients:
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 14 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(4, 10, 9 ) 
+Time:22
+Waiting clients:
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 13 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(4, 10, 8 ) 
+Time:23
+Waiting clients:
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 12 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(4, 10, 7 ) 
+Time:24
+Waiting clients:
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 11 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(4, 10, 6 ) 
+Time:25
+Waiting clients:
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 10 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(4, 10, 5 ) 
+Time:26
+Waiting clients:
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 9 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(4, 10, 4 ) 
+Time:27
+Waiting clients:
+(2, 28, 9 )
+Queue #0: 
+(3, 8, 8 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(4, 10, 3 ) 
+Time:28
+Waiting clients:
+Queue #0: 
+(3, 8, 7 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(4, 10, 2 ) 
+(2, 28, 9 ) 
+Time:29
+Waiting clients:
+Queue #0: 
+(3, 8, 6 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(4, 10, 1 ) 
+(2, 28, 9 ) 
+Time:30
+Waiting clients:
+Queue #0: 
+(3, 8, 5 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(2, 28, 9 ) 
+Time:31
+Waiting clients:
+Queue #0: 
+(3, 8, 4 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(2, 28, 8 ) 
+Time:32
+Waiting clients:
+Queue #0: 
+(3, 8, 3 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(2, 28, 7 ) 
+Time:33
+Waiting clients:
+Queue #0: 
+(3, 8, 2 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(2, 28, 6 ) 
+Time:34
+Waiting clients:
+Queue #0: 
+(3, 8, 1 ) 
+(1, 21, 5 ) 
+Queue #1: 
+(2, 28, 5 ) 
+Time:35
+Waiting clients:
+Queue #0: 
+(1, 21, 5 ) 
+Queue #1: 
+(2, 28, 4 ) 
+Time:36
+Waiting clients:
+Queue #0: 
+(1, 21, 4 ) 
+Queue #1: 
+(2, 28, 3 ) 
+Time:37
+Waiting clients:
+Queue #0: 
+(1, 21, 3 ) 
+Queue #1: 
+(2, 28, 2 ) 
+Time:38
+Waiting clients:
+Queue #0: 
+(1, 21, 2 ) 
+Queue #1: 
+(2, 28, 1 ) 
+Time:39
+Waiting clients:
+Queue #0: 
+(1, 21, 1 ) 
+Queue #1 : closed
+Time:40
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:41
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:42
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:43
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:44
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:45
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:46
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:47
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:48
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:49
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:50
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:51
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:52
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:53
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:54
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:55
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:56
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:57
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:58
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:59
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
+Time:60
+Waiting clients:
+Queue #0 : closed
+Queue #1 : closed
